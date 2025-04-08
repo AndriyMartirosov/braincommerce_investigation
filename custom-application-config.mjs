@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'rezolve-investigate',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: '71Fv47zjjjsmWDCeF5fL5vd684qJ',
+      url: 'https://braincommerce-investigation-1pps7mjni-andriys-projects-e42b0582.vercel.app/',
     },
   },
   oAuthScopes: {
