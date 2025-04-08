@@ -12,7 +12,7 @@ const config = {
       initialProjectKey: 'rezolve-investigate',
     },
     production: {
-      applicationId: '71Fv47zjjjsmWDCeF5fL5vd684qJ',
+      applicationId: 'cm96xsmi30050xr01ke4jwg1s',
       url: 'https://braincommerce-investigation.vercel.app',
     },
   },
