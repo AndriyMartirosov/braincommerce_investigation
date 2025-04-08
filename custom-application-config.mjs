@@ -13,7 +13,7 @@ const config = {
     },
     production: {
       applicationId: '71Fv47zjjjsmWDCeF5fL5vd684qJ',
-      url: 'https://braincommerce-investigation-1pps7mjni-andriys-projects-e42b0582.vercel.app/',
+      url: 'https://braincommerce-investigation.vercel.app',
     },
   },
   oAuthScopes: {
